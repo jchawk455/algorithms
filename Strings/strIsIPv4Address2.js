@@ -21,5 +21,5 @@ const isIP4Address = (inputString) => {
     
 }
 
-console.log(isIP4Address('250.34.01.5'));
+console.log(isIP4Address('1.233.161.131'));
 
