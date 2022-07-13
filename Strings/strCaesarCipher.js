@@ -17,3 +17,4 @@ const CaesarCipher = (inputString, shiftInt) => {
 console.log(CaesarCipher("ABCDEFGHIJKLMNOPQRSTUVWXYZ",23));
 console.log(CaesarCipher("ABC",0));
 console.log(CaesarCipher("ATTACK AT ONCE!",4));
+console.log(CaesarCipher("EXXEGO EX SRGI!",22));
