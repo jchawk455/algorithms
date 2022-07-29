@@ -13,7 +13,7 @@ public class StaReverseString {
             obj.push(str.charAt(i));
 
         }
-        obj.forEach(System.out::println);
+        // obj.forEach(System.out::println);
 
         for (int i = 0; i < n; i++) {
             char ch = obj.pop();
