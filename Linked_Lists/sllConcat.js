@@ -291,18 +291,18 @@ class SLL {
 }
 
 var mySLL = new SLL();
-var mySLL2 = new SLL();
-// console.log(mySLL.isEmpty());
-mySLL.insertAtBack(3);
-mySLL.insertAtBack(5);
-mySLL.insertAtBack(8);
-mySLL.insertAtFront(5);
-mySLL.insertAtFront(11);
-mySLL2.insertAtBack(3);
-mySLL2.insertAtBack(5);
-mySLL2.insertAtBack(8);
-mySLL2.insertAtFront(5);
-mySLL2.insertAtFront(11);
+// var mySLL2 = new SLL();
+// // console.log(mySLL.isEmpty());
+// mySLL.insertAtBack(3);
+// mySLL.insertAtBack(5);
+// mySLL.insertAtBack(8);
+// mySLL.insertAtFront(5);
+// mySLL.insertAtFront(11);
+// mySLL2.insertAtBack(3);
+// mySLL2.insertAtBack(5);
+// mySLL2.insertAtBack(8);
+// mySLL2.insertAtFront(5);
+// mySLL2.insertAtFront(11);
 mySLL.toArray();
 // mySLL.removeFromFront();
 // mySLL.toArray();
@@ -317,4 +317,4 @@ mySLL.toArray();
 // mySLL.toArray();
 // mySLL.moveMinToFront();
 // mySLL.toArray();
-console.log(mySLL.splitOnVal(3));
+// console.log(mySLL.splitOnVal(3));
